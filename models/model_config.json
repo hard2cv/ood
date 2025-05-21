@@ -1,0 +1,52 @@
+{
+    "DeepSeek-VL-7B-Chat": {
+        "module": "deepseek-ai/deepseek-vl-7b-chat",
+        "para_path": "<path_to_parameters>",
+        "env_path": "<path_to_environment>"
+    },
+    "DeepSeek-VL2-Small": {
+        "module": "deepseek-ai/deepseek-vl2-small",
+        "para_path": "<path_to_parameters>",
+        "env_path": "<path_to_environment>"
+    },
+    "InternVL2-8B": {
+        "module": "OpenGVLab/InternVL2-8B",
+        "para_path": "<path_to_parameters>",
+        "env_path": "<path_to_environment>"
+    },
+    "InternVL2_5-8B": {
+        "module": "OpenGVLab/InternVL2_5-8B",
+        "para_path": "<path_to_parameters>",
+        "env_path": "<path_to_environment>"
+    },
+    "Qwen2-VL-7B-Instruct": {
+        "module": "Qwen/Qwen2-VL-7B-Instruct",
+        "para_path": "<path_to_parameters>",
+        "env_path": "<path_to_environment>"
+    },
+    "Qwen2_5-VL-7B-Instruct": {
+        "module": "Qwen/Qwen2.5-VL-7B-Instruct",
+        "para_path": "<path_to_parameters>",
+        "env_path": "<path_to_environment>"
+    },
+    "Llama-3.2-11B-Vision-Instruct": {
+        "module": "meta-llama/Llama-3.2-11B-Vision-Instruct",
+        "para_path": "<path_to_parameters>",
+        "env_path": "<path_to_environment>"
+    },
+    "LLaVA-NeXT-8B": {
+        "module": "lmms-lab/llama3-llava-next-8b",
+        "para_path": "<path_to_parameters>",
+        "env_path": "<path_to_environment>"
+    },
+    "Gemini": {
+        "module": "gemini-1.5-pro",
+        "para_path": "<path_to_parameters>",
+        "env_path": "<path_to_environment>"
+    },
+    "GPT-4o": {
+        "module": "gpt-4o-2024-05-13",
+        "para_path": "<path_to_parameters>",
+        "env_path": "<path_to_environment>"
+    }
+}
